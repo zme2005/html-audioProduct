@@ -4,43 +4,50 @@ Welcome! This is a beginner-friendly HTML project I created as part of my journe
 
 ---
 
-## 🔎 What This Project Includes
+## 📌 Project Overview
 
-- A fictional product landing page
-- Clean HTML structure using:
-  - <h1> to <h6> headings
-  - <p>, <mark>, <strong>, <s> and other text elements
-  - <img> tags for product designs
-  - <video> tag to preview a sample video
-  - <audio> tag to listen to sample audio
-  - <table> with <thead>, <tbody>, and <tfoot>
-  - <marquee> tag (used intentionally for fun and practice!)
-
----
-
-## 🧠 Why This Project?
-
-I’m currently learning HTML and I wanted to put theory into practice.  
-This project is not meant to be production-grade or follow all best practices — it’s about building, testing, and growing.
+This project is a basic HTML page that showcases a fictional electronic product.  
+It includes the following features:
+- Clean HTML structure
+- Text formatting using headings, paragraphs, and inline tags
+- Product images with titles and alt text
+- A video preview using the <video> tag
+- Sample audio using the <audio> tag
+- A table displaying product information
+- The <marquee> tag for animated text (used intentionally for practice)
 
 ---
 
-## ⚠ Note
+## 🧠 Purpose
 
-Some elements (like <marquee>) are deprecated and shouldn’t be used in real projects — but I’ve included them here to explore and understand how older HTML worked.  
-Once I learn CSS, I’ll replace them with proper modern alternatives.
-
----
-
-## 💬 Feedback?
-
-I'd love to hear your thoughts! Whether you're a beginner like me or an experienced developer, any comments or suggestions are welcome.
----
-
-## 🛠 Technologies Used
-
-- HTML5 (no CSS or JavaScript yet)
+I'm currently learning HTML and created this project to apply what I’ve learned so far.  
+Some tags used (like <marquee>) are outdated and not recommended for real-world websites, but they’re helpful at this learning stage.
 
 ---
 
-## 📁 File Structure
+## 💬 Feedback
+
+This is an open learning project, and I would love to hear any tips or suggestions to help me improve.
+
+---
+
+## 🛠 Tools Used
+
+- HTML5 (only)
+- No CSS or JavaScript — yet!
+
+---
+
+## 🌱 What's Next
+
+In future versions of this project, I plan to:
+- Add CSS for better design
+- Replace outdated tags
+- Improve layout and accessibility
+
+---
+
+## 🙋 About Me
+
+I'm *Zeyad*, a beginner front-end learner from Egypt 🇪🇬  
+Follow me on my journey as I build and grow my web development skills.
